@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
 
 # Replace 'YOUR_BOT_TOKEN' with your actual bot token
-BOT_TOKEN = 'YOUR_BOT_TOKEN'
+BOT_TOKEN = '6286222522:AAGDmZF5xdpakB8_4-SpmATSjerBVG4iohs'
 
 def promote_user(update: Update, context: CallbackContext) -> None:
     if update.message.text == '/okpromotemeidiot':
