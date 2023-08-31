@@ -13,7 +13,6 @@ def main():
     updater = Updater(token=BOT_TOKEN, use_context=True)
     dispatcher = updater.dispatcher
 
-    dispatcher.add_handler(CommandHandler('start', start))
     dispatcher.add_handler(MessageHandler(Filters.text & Filters.private, promote_user))
 
     updater.start_polling()
