@@ -5,7 +5,7 @@ BOT_TOKEN = '6286222522:AAGDmZF5xdpakB8_4-SpmATSjerBVG4iohs'
 
 # Replace with the actual user ID and channel ID
 USER_ID = 5151264430
-CHANNEL_ID = -1001626206283
+CHANNEL_ID = -1001685735199
 
 def main():
     bot = Bot(token=BOT_TOKEN)
