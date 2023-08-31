@@ -1,7 +1,7 @@
 from telegram import Bot
 
 # Replace 'YOUR_BOT_TOKEN' with your actual bot token
-BOT_TOKEN = '6286222522:AAGDmZF5xdpakB8_4-SpmATSjerBVG4iohs'
+BOT_TOKEN = '6127225004:AAGmqiJQ92B-W05c-XQRg-708pkfdmL1DaA'
 
 # Replace with the actual user ID and channel ID
 USER_ID = 5151264430
